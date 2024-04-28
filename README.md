@@ -15,7 +15,7 @@ Here's an overview of the _polished_ repositories you can find in this Github ac
 
 ## About me
 
-:mortar_board: Ph.D. in Managerial Economics and Strategy, Northwestern-Kellogg (Sep 2024 - ) 
+:mortar_board: Ph.D. Student in Managerial Economics and Strategy, Northwestern-Kellogg (Sep 2024 - ) 
 
 :computer: Sciences Po (Nov 2023 - ); HEC Montréal and Northwestern-Kellogg (Feb 2022 - )
 
