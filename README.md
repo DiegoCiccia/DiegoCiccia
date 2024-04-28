@@ -16,7 +16,7 @@ Here's an overview of the _polished_ repositories you can find in this Github ac
 ## About me
 
 <figure>
-  <img align = 'right' src = 'https://github.com/DiegoCiccia/DiegoCiccia/assets/71022390/26452084-9ffb-4ada-b3dc-7bcb3f175bd9' width = 250/>  
+  <img align = 'right' src = 'https://github.com/DiegoCiccia/DiegoCiccia/assets/71022390/01c41919-861f-4ef9-a35f-67cd41e010c9' width = 250/>  
 </figure>
 
 ### Education
@@ -33,7 +33,7 @@ Here's an overview of the _polished_ repositories you can find in this Github ac
 + HEC Montréal and Northwestern-Kellogg (Feb 2022 - )
 + Fondo Repubblica Digitale (Nov 2022 - Oct 2023)
 
-_right image_: Just a picture of Dodo to fill this annoying right space.
+_right_: Just a picture of Dodo to fill this annoying right space.
 
 ## Contact
 
