@@ -15,8 +15,6 @@ Here's an overview of the _polished_ repositories you can find in this Github ac
 
 ## About me
 
-No time to do a full website, so here's some global info about me:
-
 ### Education
 
 :mortar_board: Ph.D. in Managerial Economics and Strategy, Northwestern (Sep 2024 - ) 
