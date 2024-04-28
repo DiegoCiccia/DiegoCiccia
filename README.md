@@ -5,7 +5,7 @@ Here's an overview of the _polished_ repositories you can find in this Github ac
 ### Personal projects
 
 + [rnames](https://github.com/DiegoCiccia/rnames) - R package to display recursively items in nested lists.
-+ [StataPostProduce](https://github.com/DiegoCiccia/StataPostProduce) - A Stata package to deal with gr_edit syntax in a much more user friendly way (aka the self-proclaimed `One Piece` of Stata programming).
++ [StataPostProduce](https://github.com/DiegoCiccia/StataPostProduce) - A Stata package to translate gr_edit syntax (aka the self-proclaimed `One Piece` of Stata).
 
 ### Maths and stuff
 
@@ -19,7 +19,7 @@ No time to do a full website, so here's some global info about me:
 
 ### Education
 
-:mortar_board: Ph.D. in Managerial Economics and Strategy, Northwestern-Kellogg (Sep 2024 - ) 
+:mortar_board: Ph.D. in Managerial Economics and Strategy, Northwestern (Sep 2024 - ) 
 
 :books: M.Sc. in Corporate Finance, University of Catania (Sep 2020 - Jul 2022)
 
