@@ -21,6 +21,9 @@ Here's an overview of the _polished_ repositories you can find in this Github ac
 
 ### Education
 
+
+
+
 :mortar_board: Ph.D. in Managerial Economics and Strategy, Northwestern-Kellogg (Sep 2024 - ) 
 
 :books: M.Sc. in Corporate Finance, University of Catania (Sep 2020 - Jul 2022)
