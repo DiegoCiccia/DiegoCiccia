@@ -16,7 +16,7 @@ Here's an overview of the _polished_ repositories you can find in this Github ac
 ## About me
 
 <figure>
-  <img align = 'right' src = 'https://github.com/DiegoCiccia/DiegoCiccia/assets/71022390/01c41919-861f-4ef9-a35f-67cd41e010c9' width = 280/>  
+  <img align = 'right' src = 'https://github.com/DiegoCiccia/DiegoCiccia/assets/71022390/01c41919-861f-4ef9-a35f-67cd41e010c9' width = 250/>  
 </figure>
 
 
