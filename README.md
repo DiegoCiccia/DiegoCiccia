@@ -1,5 +1,3 @@
-Hi there, this is Diego!
-
 ## Overview
 
 Here's an overview of the _polished_ repositories you can find in this Github account:
@@ -7,7 +5,7 @@ Here's an overview of the _polished_ repositories you can find in this Github ac
 ### Personal projects
 
 + [rnames](https://github.com/DiegoCiccia/rnames) - R package to display recursively items in nested lists.
-+ [StataPostProduce](https://github.com/DiegoCiccia/StataPostProduce) - A Stata package to deal with gr_edit syntax in a much more user friendly way.
++ [StataPostProduce](https://github.com/DiegoCiccia/StataPostProduce) - A Stata package to deal with gr_edit syntax in a much more user friendly way (aka the self-proclaimed `One Piece` of Stata programming).
 
 ### Maths and stuff
 
