@@ -15,30 +15,15 @@ Here's an overview of the _polished_ repositories you can find in this Github ac
 
 ## About me
 
-<figure>
-  <img align = 'right' src = 'https://github.com/DiegoCiccia/DiegoCiccia/assets/71022390/01c41919-861f-4ef9-a35f-67cd41e010c9' width = 250/>  
-</figure>
-
-
-
-### Education
-
 :mortar_board: Ph.D. in Managerial Economics and Strategy, Northwestern-Kellogg (Sep 2024 - ) 
 
-:books: M.Sc. in Corporate Finance, University of Catania (Sep 2020 - Jul 2022)
+:computer: Sciences Po (Nov 2023 - ); HEC Montréal and Northwestern-Kellogg (Feb 2022 - )
 
-:book: B.Sc. in Business Economics, University of Catania (Sep 2017 - Jul 2020)
+:dog: Dodo (picture below)
 
-#### RAs
-
-+ Sciences Po (Nov 2023 - )
-+ HEC Montréal and Northwestern-Kellogg (Feb 2022 - )
-+ Fondo Repubblica Digitale (Nov 2022 - Oct 2023)
-
-
-_right_: Just a picture of Dodo to fill this annoying right space.
-
-
+<figure>
+  <img src = 'https://github.com/DiegoCiccia/DiegoCiccia/assets/71022390/01c41919-861f-4ef9-a35f-67cd41e010c9' width = 250/>  
+</figure>
 
 ## Contact
 
