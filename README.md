@@ -4,9 +4,11 @@ Here's an overview of the _polished_ repositories you can find in this Github ac
 
 ### Personal projects
 
-+ [StataPostProduce](https://github.com/DiegoCiccia/StataPostProduce) - A Stata package to translate gr_edit syntax (aka the self-proclaimed `One Piece` of Stata).
-+ [runview](https://github.com/DiegoCiccia/runview) - An extension of `rundo` for pre-viewing Stata .sthlp files with VSCode.
-+ [rnames](https://github.com/DiegoCiccia/rnames) - R package to display recursively items in nested lists.
++ Stata Utilities
+  - [StataPostProduce](https://github.com/DiegoCiccia/StataPostProduce) - A Stata package to translate gr_edit syntax (aka the self-proclaimed `One Piece` of Stata).
+  - [runview](https://github.com/DiegoCiccia/runview) - An extension of `rundo` for pre-viewing Stata .sthlp files with VSCode.
++ R Utilities
+  - [rnames](https://github.com/DiegoCiccia/rnames) - R package to display recursively items in nested lists.
 
 ### Maths and stuff
 
