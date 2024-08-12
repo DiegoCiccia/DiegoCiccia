@@ -4,6 +4,7 @@ Here's an overview of the _polished_ repositories you can find in this Github ac
 
 ### Personal projects
 
++ [sdid_event](https://github.com/DiegoCiccia/sdid/tree/main/sdid_event) - A Stata module implementing Event-Study Synthetic Difference-in-Differences.
 + Stata Utilities
   - [StataPostProduce](https://github.com/DiegoCiccia/StataPostProduce) - A Stata package to translate gr_edit syntax (aka the self-proclaimed `One Piece` of Stata).
   - [runview](https://github.com/DiegoCiccia/runview) - An extension of `rundo` for pre-viewing Stata .sthlp files with VSCode.
